@@ -34,5 +34,5 @@ The main function, `evaluate_password()`, aggregates results and normalizes the 
 Clone the repo:
 
 ```bash
-git clone <your_repo_here>
+git clone https://github.com/MercydesOliva/password-strength-tester.git
 cd password-strength-tester
